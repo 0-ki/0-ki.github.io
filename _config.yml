@@ -4,7 +4,7 @@ tagline: '0-Ki술 블로그'
 description: ''
 baseurl: ""
 url: https://0-ki.github.io/
-logo: '/public/logo.png'
+logo: '/public/0-Ki logo.png'
 
 # Site configurations
 gems:
