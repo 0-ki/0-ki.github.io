@@ -1,6 +1,6 @@
 # Site Info
-title: 차곡차곡
-tagline: ''
+title: 0-ki술 블로그
+tagline: '0-ki술 블로그'
 description: ''
 baseurl: ""
 url: https://0-ki.github.io/
@@ -24,7 +24,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: 영기
+  name: 빵키
   description: <strong>developer</strong>
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
